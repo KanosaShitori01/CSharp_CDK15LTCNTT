@@ -1,0 +1,9 @@
+D:\huỳnh phúc lơi\SQL_Rela\OnTapADONET\OnTapADO\OnTapADO\bin\Debug\OnTapADO.exe.config
+D:\huỳnh phúc lơi\SQL_Rela\OnTapADONET\OnTapADO\OnTapADO\bin\Debug\OnTapADO.exe
+D:\huỳnh phúc lơi\SQL_Rela\OnTapADONET\OnTapADO\OnTapADO\bin\Debug\OnTapADO.pdb
+D:\huỳnh phúc lơi\SQL_Rela\OnTapADONET\OnTapADO\OnTapADO\obj\Debug\OnTapADO.csprojResolveAssemblyReference.cache
+D:\huỳnh phúc lơi\SQL_Rela\OnTapADONET\OnTapADO\OnTapADO\obj\Debug\OnTapADO.Form1.resources
+D:\huỳnh phúc lơi\SQL_Rela\OnTapADONET\OnTapADO\OnTapADO\obj\Debug\OnTapADO.Properties.Resources.resources
+D:\huỳnh phúc lơi\SQL_Rela\OnTapADONET\OnTapADO\OnTapADO\obj\Debug\OnTapADO.csproj.GenerateResource.Cache
+D:\huỳnh phúc lơi\SQL_Rela\OnTapADONET\OnTapADO\OnTapADO\obj\Debug\OnTapADO.exe
+D:\huỳnh phúc lơi\SQL_Rela\OnTapADONET\OnTapADO\OnTapADO\obj\Debug\OnTapADO.pdb
